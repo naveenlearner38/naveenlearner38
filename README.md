@@ -19,7 +19,7 @@
 - ✔️ Web Application Penetration Testing 
 -  ✔️Playing CTFs and Hacking related challenges
 - ✔️ Networking 
-- ✔️ Python , Javascript , NodeJS  , C/C++
+- ✔️ Python (Django) , PHP (Laravel), Javascript (React, NodeJS)  , C/C++
 - ✔️ Automating boring tasks with programming 
 - ✔️ Working with Different kind of Data
 
